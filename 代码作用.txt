@@ -1,0 +1,15 @@
+preprocess：数据预处理
+
+G_D_Module：cDCGAN模型的建立
+
+TrainFunction：cDCGAN模型训练函数
+
+cwru_train：训练cDCGAN模型
+
+GenAndRealData_2：利用训练好的cDCGAN生成虚拟样本
+
+ShowData：输出生成的虚假样本的图像
+
+CNN_train：2DCNN诊断模型
+
+viz：将所有曲线输出在一张图上
